@@ -22,7 +22,7 @@
 {
     'use strict';
 
-    $.fn.pikaday = function()
+    jQuery.fn.pikaday = function()
     {
         var args = arguments;
 
